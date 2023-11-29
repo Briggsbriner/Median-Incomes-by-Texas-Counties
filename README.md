@@ -1,4 +1,4 @@
-# Median-Incomes-Texas-Counties
+# Median Incomes in Texas Counties
 Unit 3 Project for English 105
 
 ### What does this dataset provide?
