@@ -2,12 +2,10 @@
 Unit 3 Project for English 105
 The original Public Heatlh dataset was provided by Professor Gotzler
 
-In this repository, you will find a colab notebook oulining specific steps on how to cull a condensed dataset, a larger public health by county dataset, and ultimaly the subset of data I sifted through and created outlining median household incomes across various counties in Texas.
+In this repository, you will find a colab notebook oulining specific steps on how to cull a condensed dataset, a larger public health by county dataset, and ultimately the subset of data I sifted through and created outlining median household incomes across various counties in Texas.
 
-### What Does This Dataset Provide?
-This dataset provides condensed and sorted through data from the larger dataset that depicts median income by county within Texas which could be beneficial for research. 
 
-### Why Does This Data matter?
+### Why Does This Data Matter?
 This dataset is useful because it can be used to analyze socioeconomic differences across counties in Texas, which can be helpful to reveal disparities in income and wealth which vary by county. Furthermore, researchers can use this data to understand the income inequality between counties to assess factors that could possibly cause this discrepancy in incomes. Finally, with this data policymakers could understand these disparities in Texas and could formulate policies tailored to specific regions to address inequalities. 
 
 ### User Experience and Overview
