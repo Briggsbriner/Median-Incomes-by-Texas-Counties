@@ -14,3 +14,7 @@ I encourage all users to look around the data and potentially use the data in th
 
 ### How Was This Data Collected
 To see the transition from the larger data set to the smaller data set, look in the “process flow” folder and there you will locate a file called “Briner_Notebook-2.ipynb”. This notebook is the detailed instruction manual on how I culled the data from the file “Medianincomestx.csv”from the larger dataset called "CountyHealthData_2014-2015.csv". 
+
+### Something Not Working Right? 
+If this page is not working or you need help with troubleshooting, visit the Github support page which is linked below.
+- (https://support.github.com)
