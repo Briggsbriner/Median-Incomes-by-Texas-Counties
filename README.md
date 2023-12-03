@@ -2,7 +2,7 @@
 Unit 3 Project for English 105
 The original Public Heatlh dataset was provided by Professor Gotzler
 
-In this repository, you will find a colab notebook oulining specific steps on how to cull a condensed dataset, a larger public health by county dataset, and ultimately the subset of data I sifted through and created outlining median household incomes across various counties in Texas.
+In this repository, you will find a colabs notebook oulining specific steps on how to cull a condensed dataset, a larger public health by county dataset, and ultimately the subset of data I sifted through and created outlining median household incomes across various counties in Texas.
 
 
 ### Why Does This Data Matter?
