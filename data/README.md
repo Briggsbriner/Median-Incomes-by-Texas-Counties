@@ -10,4 +10,4 @@
    - Called "Medianincometx" in data folder
    (Downloadable file that I culled from the larger data set)
 
-3. Graphs that provide visualizations of these statistics and incomes
+In the Graph folder, you can find two graphs showing the income distribution and median household incomes from 2014-2014
