@@ -1,5 +1,6 @@
 # **Median Incomes in Texas Counties**
 Unit 3 Project for English 105
+
 The original Public Health dataset was provided by Professor Gotzler
 
 In this repository, you will find a Colab notebook outlining specific steps on how to cull a condensed dataset, a larger public health by county dataset, and ultimately the subset of data I sifted to create the subset about median household incomes across various counties in Texas.
