@@ -16,9 +16,11 @@ I encourage all users to look around the data and potentially use the data in th
 To see the transition from the larger data set to the smaller data set, look in the “process flow” folder and there you will locate a file called “Briner_Notebook-2.ipynb”. This notebook is the detailed instruction manual on how I culled the data from the file “Medianincomestx.csv”from the larger dataset called "CountyHealthData_2014-2015.csv". 
 
 ### **Hyperlinks:**
-Data folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/data
-Graph folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/Graphs
-Process Flow folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/process%20flow
+- Data folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/data
+
+- Graph folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/Graphs
+
+- Process Flow folder: https://github.com/Briggsbriner/Median-Incomes-by-Texas-Counties/tree/main/process%20flow
 
 
 ### Something Not Working Right? 
