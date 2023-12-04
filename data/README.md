@@ -4,7 +4,7 @@
 
 1. **The County Health Dataset**
    - Called CountyHealthData_2014-2015.csv in data folder
-  (This is a downloadable file that is avaible to everyone)
+  (This is a downloadable file that is available to everyone)
 
 2. **My data subset about Median Incomes in Texas by County**
    - Called "Medianincometx" in data folder
